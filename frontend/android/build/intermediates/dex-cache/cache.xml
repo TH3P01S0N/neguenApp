@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_8fcb7d2c005ae5e410d337e045917f4607489ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_76fdf1f02d1e922954abb8016b25c7a0adc475fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22bd41f76fa5c015d05e62066ba7f45bfd5124a9">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-15.0.1_bd870fa19bd3a43a7b33d1ef911dd66da7f759de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_3e15b377bd93524e028ff3516b0b28178f942afc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_20b325622339838b5dc0eb43b6b0593ccfa30688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_eff6aecc5d82238f8f09c43b30043d2e0ac8f922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c5c03192658d075145f95e0d407a874e68a121b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0cb384b906680c855d8d7c1e87185f80b396f20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/core-3.3.0_b14797ccbf9047f5367091a765f2b90566486fa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_bb2a56a1419f4ba7f9dd6efd2531a3c0059a9e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.5_886e45bec15797df7945a862e459ee70d71305fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_ecc6b6350b328d0eecc1e5383b817dda4e0ee5f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_65149e74f93c62940efc3473edb99eb2370d565e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_91d3c39c4c13ec5dd4ba67624cdc2e698868cfa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_85665172588dc1da3ffb77dff604dc90f4a7a967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_94a7b0441242456fe5215148a366b3040b854d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1f32d248ec690bd1fca0677ed1ce2fcc993ec0b9">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-vector-icons-unspecified_2a2b741513150ab5cb826cf227278d04f71212d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_5583c5ec14379f2ce915fd56043812c644db0cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751e54642e9c30c75534c11f64cc811d43d4eada">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-maps-unspecified_0a3cf42c92513dae1b7503afcc754d95eb8f66bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2083abd781701185dba2d85b410b778e624a8149">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-code-push-unspecified_61f1ec1bebb84c2d48ef47425fd0a13c2f322c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.3.1_fdc7d0164c0450cafd02c512f0160a7b569f127f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-15.0.1_d95a286c3aaa96dc9d80380c441715b0afcc922a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_445c695e32777c118a9b7011d81f58f8b14d3641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_1c9e6f70dff72c59cbb65f40dbc0f2057d80c9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_8ca5991c3859423de54edea4235f9b52088e2012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_51fb28c278c49f89f48e3ed22512fd661c205e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-navbar-color/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b56f2095982699aff7e8457f38ea57fd174ee8b">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-navbar-color-unspecified_fd9c87448105757c751f4d75a9bb18a90352183a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_efd0d072dcf187db4341fcd322523ce8c20001ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_481c591614cb2d7cb75ee3eb311d683ec12ea9d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places-placereport/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1df2a23336d956cde542040263b350c7bd11f3f7">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-placereport-15.0.1_9cc236a2cc94448a4c5453e0275380e8ccd02490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_0bf098332bb76507582fc45e0cf79b36fba8017e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.26.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e09663005d70dcedff0bb77211b9ac52d8b69421">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.26.0_30def7feef72a4affbbcb4ae48b40ada05160c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d29203ddedb8e742f71ce710fab4cde7a072b5fa">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-fbsdk-unspecified_0979a5ebb6e0138f9aa376d0a0fb430aa1c9ba6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-15.0.1_ff562a1d6f37334780f7008641358c584d8c90a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_f84e95dd1b95f246aa0ec6e73bca31f455384eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a6536b4f43a7bb96fca7d3fc7c05095040fd72b">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-15.0.1_c322de125d05294a35fb7ec08fe7da19e4f1fcb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6f6c4a6ce2cb6ab55fa96b28059884c90be6deea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_a4a6a1f0822b5e279d8feedd46499f458137ea5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_a1f463a3b7166ac6f0b32e1d07bdbb2773ea3517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_833852d80a03efe6e453b88a4d6a481fc28f13fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-geocoder/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b3dc71bf9a3ec3a6fa4c4b60017bdc1e3ea3efba">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-geocoder-unspecified_dc09bcd9ad81a179718cd84234dc27c4d12b58f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_db6e6ea199366acbaf6e4f2872438f53c0c3f5d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_5290946c0bd21dd88882ef35948e5870ecd7881f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_420af262f93a0c7ca9386bb1385a181ddad46ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_004fdfb7efcf1e798456f0b4bd0c82e332b1d7c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-15.0.1_edc2e17cfcfdad85d5dd28e4ca99cca5eb27030f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-geolocation-service/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93f99d80d6aca92dab454af2c597a6c11c5395bc">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-geolocation-service-unspecified_e7b1ead2f9e8412e5cb267fce3c00370aabdb534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_3ff3014f4e48e3aeadba89db4ddb4ba3d6235b40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ab4f6779e637867bcbeef2a8e8c798de26fb5e5">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-image-picker-unspecified_1ea63f016cec80c42dbf297f0074fc921918ff7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_d9c139d21a988cd08d2df37cc1220bbd1745f3a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/media/diego/1a405dea-8388-4dd1-913f-b56e1800d5281/documentos/ReactProjects/native-starter-kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bc453cc83403646b039929b8f8f4b72d05838602.jar" />
+    </item>
+
+</items>
